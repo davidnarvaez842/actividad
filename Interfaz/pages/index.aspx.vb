@@ -1,5 +1,5 @@
 ﻿
-Partial Class pages_Default
+Partial Class pages_index
     Inherits System.Web.UI.Page
 
 End Class
